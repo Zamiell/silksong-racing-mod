@@ -1,5 +1,23 @@
 namespace RacingMod.FSMEdits;
 
+// This code has been tested to properly skip the following Weaver Shrines:
+// - Ancestral Arts
+//   - Swift Step (from Deep Docks)
+//   - Cling Grip (from Shellwood)
+//   - Clawline (from The Cauldron)
+//   - Silk Soar (from Weavenest Absolom)
+// - Silk Skills
+//   - Silk Spear (from Mosshome)
+//   - Thread Storm (from Craw Lake)
+//   - Sharpdart (from Weavenest Karn)
+
+// Remaining things to check:
+// - Needolin (from Bellhart) XXX
+// - Sylphsong (from Weavenest Atla) XXX
+// - Cross Stitch (from Exhaust Organ) XXX
+// - Rune Rage (from The Slab) XXX
+// - Pale Nails (from The Cradle) XXX
+
 internal static class ShrineWeaverAbility
 {
     internal static void Skip(PlayMakerFSM fsm)
