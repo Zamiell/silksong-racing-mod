@@ -12,11 +12,11 @@ namespace RacingMod.FSMEdits;
 //   - Sharpdart (from Weavenest Karn)
 
 // Remaining things to check:
-// - Needolin (from Bellhart) XXX
-// - Sylphsong (from Weavenest Atla) XXX
-// - Cross Stitch (from Exhaust Organ) XXX
-// - Rune Rage (from The Slab) XXX
-// - Pale Nails (from The Cradle) XXX
+// - Needolin (from Bellhart)
+// - Sylphsong (from Weavenest Atla)
+// - Cross Stitch (from Exhaust Organ)
+// - Rune Rage (from The Slab)
+// - Pale Nails (from The Cradle)
 
 internal static class ShrineWeaverAbility
 {
