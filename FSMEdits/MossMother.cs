@@ -11,6 +11,7 @@ internal static class MossMother
         }
 
         // Open the gates immediately once Moss Mother explodes.
+        /*
         if (fsm is { gameObject.name: "Mossbone Mother Corpse(Clone)", FsmName: "Death" })
         {
             fsm.AddMethod(
@@ -30,6 +31,7 @@ internal static class MossMother
                 }
             );
         }
+        */
     }
 }
 

@@ -9,8 +9,12 @@ internal static class PlayMakerFSMPatch
     [
         // Bosses
         MossMother.SpeedUp,
+        BellBeast.SkipIntro,
+        BellBeast.SkipDeath,
         // Other
         ShrineWeaverAbility.Skip,
+        SilkHeart.SkipCutscene,
+        SilkHeart.SkipCutscene2,
     ];
 
     [HarmonyPostfix]

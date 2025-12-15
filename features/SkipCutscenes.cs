@@ -105,7 +105,7 @@ public class GameManager_StartNewGame_Patch_2
         PlayerData.instance.churchKeeperIntro = true;
 
         // Skips Shakra talking to you for the first time in The Marrow.
-        PlayerData.instance.metMapper = true; //
+        PlayerData.instance.metMapper = true;
     }
 }
 

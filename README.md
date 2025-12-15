@@ -45,7 +45,8 @@ This is the main feature of the mod. Many things in the game are sped up or remo
   - The initial Shakra conversation is skipped (by setting `metMapper` to true).
 - Bosses:
   - The Moss Mother roar that is part of her introduction sequence is skipped.
-  - The Moss Mother gates are opened more quickly after the boss explodes.
+  - The Bell Beast intro sequence is sped up.
+  - The Bell Beast death sequence is sped up.
 - Weaver Shrines now instantly grant abilities.
   - This feature is not fully implemented yet.
 
@@ -87,6 +88,4 @@ A lot of code in this mod was based on code in Vitaxses' excellent [Silksong QoL
 - Boss stuff:
   - Bell Beast intro
   - Bell Beast death animation
-- Speed up grabbing silk heart into cutscene
-  - Set `UnlockedFastTravel` after getting silk heart to avoid roaring cutscene when walking to the right
 - do all Weaver Shrines

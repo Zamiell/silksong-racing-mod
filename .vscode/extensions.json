@@ -4,7 +4,7 @@
   "recommendations": [
     "csharpier.csharpier-vscode", // The C# formatter
     "emeraldwalk.runonsave", // To enable build-on-save
-    "esbenp.prettier-vscode", // The Markdown formatter
+    "prettier.prettier-vscode", // The Markdown formatter
     "ms-dotnettools.csdevkit", // The C# language server
     "streetsidesoftware.code-spell-checker" // A spell-checker extension based on CSpell
   ]
